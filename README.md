@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-events-yarn-game)    [GitHub Pages](https://kievsan.github.io/ahj-events-yarn-game/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-events-yarn-game)    [GitHub Pages](https://kievsan.github.io/ahj-events-yarn_game/)
 
 Правила сдачи задания:
 
